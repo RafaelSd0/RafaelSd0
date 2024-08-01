@@ -6,6 +6,10 @@
 Estou iniciando minha jornada no desenvolvimento web, meu foco está em desenvolver projetos com uma boa experiência de usuário, interfaces fáceis de usar. Gosto de tecnologia desde que eu me entendo por gente, Jogos eletrônicos (DMC 3 de ps2 é o meu favorito), Animações, Battlebots, etc.
 
 <div>
+  <br>
+  <br>
+  <br>
+  <br>
   
 
 ![RafaelSd0 GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSd0&hide=contribs,prs&theme=dark)
