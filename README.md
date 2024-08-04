@@ -3,8 +3,7 @@
 <h3>Desonvolvedor Front-end <em>Freelancer</em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>
 
-Estou iniciando minha jornada no desenvolvimento web, meu foco está em desenvolver projetos com uma boa experiência de usuário, interfaces fáceis de usar. Gosto de tecnologia desde que eu me entendo por gente, Jogos eletrônicos (DMC 3 de ps2 é o meu favorito), Animações, Battlebots, etc.
-
+Estou iniciando minha jornada no desenvolvimento web, meu foco está em desenvolver projetos com uma boa experiência de usuário, interfaces fáceis de usar. Gosto de tecnologia desde que eu me entendo por gente, Jogos eletrônicos (DMC 3 de ps2 é o meu favorito), Animações, Battlebots, etc. Gosto muito do que eu faço e quero sempre estar evoluindo💪
 <div>
   <br>
   <br>
