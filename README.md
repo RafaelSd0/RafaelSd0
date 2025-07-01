@@ -15,14 +15,3 @@ Desenvolvedor de Software, meu foco está em desenvolver projetos com uma boa ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSd0&layout=compact&theme=dark)
 
 </div>
- 🧰 &nbsp;Stack de Desenvolvimento <br> <br>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" height="50" />&nbsp;<img  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fnestjs_logo_icon_169927.png&f=1&nofb=1&ipt=bca2f977511d1a617f09165b37732d1a4326662d9940a267b8e9c37963b5508a" alt="Nest" height="50"/> &nbsp;<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> &nbsp;<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="MongoDB" height="50"/> 
-
-
-
-
-
-
-
